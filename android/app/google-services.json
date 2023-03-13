@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706823562991",
+    "project_id": "flash-chat-8c98e",
+    "storage_bucket": "flash-chat-8c98e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706823562991:android:dbca31f2bffede060bdd1a",
+        "android_client_info": {
+          "package_name": "com.owenpickard.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706823562991-vunf9c1ooftfdnm3q2kkgk9i8kb9jm1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSSULMMy7TocNwpObG2tZmtHsO4Wkahc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706823562991-vunf9c1ooftfdnm3q2kkgk9i8kb9jm1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
